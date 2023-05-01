@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CrudDelaYsla/static/css/main.0dfa80fc.css",
+    "main.js": "/CrudDelaYsla/static/js/main.bbe7af8b.js",
+    "static/js/787.faa06649.chunk.js": "/CrudDelaYsla/static/js/787.faa06649.chunk.js",
+    "index.html": "/CrudDelaYsla/index.html",
+    "main.0dfa80fc.css.map": "/CrudDelaYsla/static/css/main.0dfa80fc.css.map",
+    "main.bbe7af8b.js.map": "/CrudDelaYsla/static/js/main.bbe7af8b.js.map",
+    "787.faa06649.chunk.js.map": "/CrudDelaYsla/static/js/787.faa06649.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dfa80fc.css",
+    "static/js/main.bbe7af8b.js"
+  ]
+}
